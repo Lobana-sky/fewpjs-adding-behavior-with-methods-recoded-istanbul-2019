@@ -1,5 +1,5 @@
 // Your code here
-class cat {
+class Cat {
   //...
   constructor(name,sex){
     this.name=name;
@@ -10,7 +10,7 @@ class cat {
     }
 }
  
-class dog {
+class Dog {
   //...
   constructor(){
     this.name=name;
@@ -21,7 +21,7 @@ class dog {
     }
 }
  
-class bird {
+class Bird {
   //...
   constructor(){
     this.name=name;
