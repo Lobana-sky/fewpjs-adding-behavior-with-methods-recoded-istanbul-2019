@@ -1,15 +1,24 @@
 // Your code here
 class Cat {
   //...
-  constructor(){}
+  constructor(name,sex){
+    this.name=name;
+    this.sex=sex;
+  }
 }
  
 class Dog {
   //...
-  constructor(){}
+  constructor(){
+    this.name=name;
+    this.sex=sex;
+  }
 }
  
 class Bird {
   //...
-  constructor(){}
+  constructor(){
+    this.name=name;
+    this.sex=sex;
+  }
 }
