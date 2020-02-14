@@ -27,4 +27,9 @@ class Bird {
     this.name=name;
     this.sex=sex;
   }
+  speak() {
+        return ` It's me! ${this.name}, the parrot!`;
+    }
+  
+ 
 }
