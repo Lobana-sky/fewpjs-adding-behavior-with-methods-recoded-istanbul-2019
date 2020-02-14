@@ -1,13 +1,15 @@
 // Your code here
 class Cat {
   //...
-  construcor
+  constructor(){}
 }
  
 class Dog {
   //...
+  constructor(){}
 }
  
 class Bird {
   //...
+  constructor(){}
 }
